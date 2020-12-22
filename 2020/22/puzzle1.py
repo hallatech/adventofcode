@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-print('Day 22:  - puzzle 1')
+print('Day 22: Crab Combat - puzzle 1')
 
 # input_file_p1 = "example_p1"
 # input_file_p2 = "example_p2"
