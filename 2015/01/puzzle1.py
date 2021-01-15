@@ -19,9 +19,5 @@ with open(input_file,"r") as f:
                 floor += 1
             elif i == ')':
                 floor -= 1
-            else:
-                print('invalid char:',i)
-        # print(line)
 
-# print('line_count',line_count)
 print('Answer to puzzle',floor)

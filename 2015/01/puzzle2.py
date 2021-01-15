@@ -24,7 +24,5 @@ with open(input_file,"r") as f:
                 print('invalid char:',i)
             if floor == -1:
                 break
-        # print(line)
 
-# print('line_count',line_count)
 print('Answer to puzzle',count)
